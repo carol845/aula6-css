@@ -1,0 +1,22 @@
+input:focus{
+background-color: burlywood;
+color: steelblue;
+}
+a:visited{
+    color: aquamarine;
+}
+div{
+    background-color: rgb(33, 230, 230);
+    color: aliceblue;
+    height: 20px;
+    width: 200px;
+    padding:25%;
+    box-sizing:border-box;
+}
+
+.box:hover{
+    background-color: bisque;
+    color: rgb(91, 167, 235);
+    height:200px;
+    width:200px;
+}
